@@ -19,5 +19,5 @@ This project is a C implementation of the classic Minesweeper game. The game all
 
 ## Authors
 
-Athanasios Davaris
-Theodoros Triados
+- **Athanasios Davaris**
+- **Theodoros Triados**

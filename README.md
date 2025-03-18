@@ -1,5 +1,9 @@
 # Minesweeper in C
 
+## ATTENTION
+
+This project was build in an ancient version of C and WILL NOT run propertly! The code is for presentation reasons only!
+
 ## Overview
 
 This project is a C implementation of the classic Minesweeper game. The game allows players to select the size of the board and the difficulty level. Players can open cells, mark cells as potential mines, and even cheat to reveal the contents of a cell. The game ends when the player either uncovers all non-mine cells or triggers a mine.
